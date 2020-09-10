@@ -3,6 +3,8 @@
 
 This repository contains the source code for [Jenkins X Boot configuration](https://jenkins-x.io/docs/getting-started/setup/boot/) so that you can setup, upgrade or configure your Jenkins X installation via GitOps.
 
+This one is customised for viddsee
+
 ## How to install...
 
 ### Creating a kubernetes cluster
